@@ -1,7 +1,7 @@
-<p align="center">
+
 ![icone](https://user-images.githubusercontent.com/57163905/116324546-bb0c2380-a796-11eb-8db4-7c5e79cbca2e.png)
 # Simulador Escalonamento de Processos
-</p>
+
 
 Simulador de Escalonamento de Processos com propósito educacional e didático
 
