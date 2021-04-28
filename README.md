@@ -34,7 +34,7 @@ Conheça o projeto:
       * [Múltiplas Filas](#múltiplas-Filas)
    * [Ferramentas Utilizadas](#ferramentas-utilizadas)
    * [Referências](#referências)
-   * [Contato](#contato)
+   * [Autor](#Autor)
 <!--te-->
 
 ## Sobre 💬
