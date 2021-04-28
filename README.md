@@ -61,6 +61,13 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
 </h1>
 </p>
 
+### ➡ Adicionando processos
+
+### ➡ Simulando o funcionamento do algoritmo
+**APÓS ADICIONAR OS PROCESSOS, CLIQUE EM `SIMULAR` PARA DAR INÍCIO A UMA SIMULAÇÃO DO ALGORITMO SELECIONADO**
+
+### ➡ Visualizando Resultados
+**CLIQUE NA ABA `RESULTADOS` PARA VISUALIZAR OS DADOS GERADOS PELA SIMUAÇÃO**
 
 ## Algoritmos de Escalonmaento
 * Funções do escalonamento:
