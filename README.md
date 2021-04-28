@@ -12,14 +12,14 @@ Conheça o projeto:
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Como utilizar?](#como-utilizar)
-   * [Algoritmos de Escalonamento](#algoritmos-escalonamento)
+   * [Como utilizar?](#Como-utilizar?)
+   * [Algoritmos de Escalonamento](#Algoritmos-de-Escalonamento)
       * [FCFS](#FCFS)
       * [SJFS](#SJFS)
       * [Prioridade](#prioridade)
       * [Loteria](#loteria)
-      * [Round Robin](#roundrobin)
-      * [Múltiplas Filas](#multiplasFilas)
+      * [Round Robin](#Round-Robin)
+      * [Múltiplas Filas](#múltiplas-Filas)
    * [Ferramentas Utilizadas](#ferramentas)
    * [Referências](#referencia)
    * [Contato](#contato)
