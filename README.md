@@ -65,6 +65,9 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
 
 ### ➡ Simulando o funcionamento do algoritmo
 **APÓS ADICIONAR OS PROCESSOS, CLIQUE EM `SIMULAR` PARA DAR INÍCIO A UMA SIMULAÇÃO DO ALGORITMO SELECIONADO**
+- 🔴 PROCESSO EM EXECUÇÃO
+- 🟡 PROCESSO PAUSADO / NÃO FINALIZADO
+- 🟢 PROCESSO FINALIZADO
 
 ### ➡ Visualizando Resultados
 **CLIQUE NA ABA `RESULTADOS` PARA VISUALIZAR OS DADOS GERADOS PELA SIMUAÇÃO**
