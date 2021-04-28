@@ -45,6 +45,23 @@ Todos os algoritmos foram desenvolvidos python. A interface foi concebida utilza
 
 ## Como Utilizar? 💡
 
+### ➡ Dúvida sobre o funcionamento do algoritmo?
+Clique no ❔ para mostrar o popup com a descrição do algoritmo:
+<p>
+<h1 align="center">
+    <img title="Tela Inicial" src="https://user-images.githubusercontent.com/57163905/116347582-db51d780-a7c2-11eb-8f7b-5d499fc036ff.gif" width = "400px"/>
+</h1>
+</p>
+
+### ➡ Selecionando algoritmo
+⚠ **SEMPRE CLIQUE EM `ATUALIZAR ENTRADAS` APÓS SELECIONAR O ALGORITMO** ⚠
+<p>
+<h1 align="center">
+    <img title="Tela Inicial" src="https://user-images.githubusercontent.com/57163905/116348616-cece7e80-a7c4-11eb-85eb-9817bd6d55f9.gif" width = "400px"/>
+</h1>
+</p>
+
+
 ## Algoritmos de Escalonmaento
 * Funções do escalonamento:
     * Manter a CPU ocupada a maior parte do tempo.
