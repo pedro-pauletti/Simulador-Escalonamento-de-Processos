@@ -5,8 +5,14 @@
 <h1 align="center">Simulador Escalonamento de Processos</h1>
 </p>
 
-
 Simulador de Escalonamento de Processos com propósito educacional e didático, desenvolvido para a disciplina de Sistemas Operacionais l
+
+<p>
+<h1 align="center">
+    <img title="Tela Inicial" src="assets/tela-inicial.png" width = "500px"/>
+</h1>
+</p>
+
 
 Conheça o projeto:
 =================
