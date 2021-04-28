@@ -12,7 +12,7 @@ Conheça o projeto:
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Como utilizar?](#Como-utilizar?)
+   * [Como utilizar?](#Como-utilizar)
    * [Algoritmos de Escalonamento](#Algoritmos-de-Escalonamento)
       * [FCFS](#FCFS)
       * [SJFS](#SJFS)
@@ -20,8 +20,8 @@ Conheça o projeto:
       * [Loteria](#loteria)
       * [Round Robin](#Round-Robin)
       * [Múltiplas Filas](#múltiplas-Filas)
-   * [Ferramentas Utilizadas](#ferramentas)
-   * [Referências](#referencia)
+   * [Ferramentas Utilizadas](#ferramentas-utilizadas)
+   * [Referências](#referências)
    * [Contato](#contato)
 <!--te-->
 
