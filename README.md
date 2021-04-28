@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/pedro-pauletti/Simulador-Escalonamento-de-Processos">
+    <img src="https://img.shields.io/github/downloads/pedro-pauletti/Simulador-Escalonamento-de-Processos/total">
+    <img src="https://img.shields.io/github/contributors/pedro-pauletti/Simulador-Escalonamento-de-Processos">
+</p>
+
 <p>
 <h1 align="center">
     <img title="Simulador Escalonmaento de Processos" src="assets/icone.png"/>
