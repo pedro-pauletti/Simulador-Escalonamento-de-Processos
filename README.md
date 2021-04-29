@@ -39,9 +39,7 @@ Conheça o projeto:
 
 ## Sobre 💬
 
-Escalonamento de processos é o ato de realizar o chaveamento dos processos ativos, de acordo com regras bem estabelecidas, de forma que todos os processos tenham chance de utilizar a UCP. O escalonador é a parte do SO encarregada de decidir entre os processos prontos, qual será colocado em execução.
-A ideia de criar um simulador é para que estudantes e interessados possam compreender e analisar o funcionamento dos algotimos de escalonamento de processos de forma simples, visual e didática.
-Todos os algoritmos foram desenvolvidos python. A interface foi concebida utilzando a biblioteca gráfica PySimpleGUI.
+Escalonamento de processos é o ato de realizar o chaveamento dos processos ativos, de acordo com regras bem estabelecidas, de forma que todos os processos tenham chance de utilizar a UCP. O escalonador é a parte do SO encarregada de decidir entre os processos prontos, qual será colocado em execução. A ideia de criar um simulador é para que estudantes e interessados possam compreender e analisar o funcionamento dos algoritmos de escalonamento de processos de forma simples, visual e didática. Todos os algoritmos foram desenvolvidos em Python. A interface foi concebida utilizando a biblioteca gráfica PySimpleGUI.
 
 ## Como Utilizar? 💡
 
