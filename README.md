@@ -7,8 +7,9 @@
 <p>
 <h1 align="center">
     <img title="Simulador Escalonmaento de Processos" src="assets/icone.png"/>
+    <h1 align="center">Simulador Escalonamento de Processos</h1>
+<a href="https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing"><button style="background: #8B0000; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">DOWNLOAD .EXE</button></a>
 </h1>
-<h1 align="center">Simulador Escalonamento de Processos</h1>
 </p>
 
 ### Simulador de Escalonamento de Processos com propósito educacional e didático, desenvolvido para a disciplina de Sistemas Operacionais l
