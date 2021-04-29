@@ -9,8 +9,7 @@
 <h1 align="center">
     <img title="Simulador Escalonmaento de Processos" src="assets/icone.png"/>
     <h1 align="center">Simulador Escalonamento de Processos</h1>
-    <a href="https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing"><img src="https://user-images.githubusercontent.com/57163905/116627559-baed5e80-a923-11eb-95a2-69a67574a487.png" width = "400px"></a>
-
+    <a align="center" href="https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing"><img src="https://user-images.githubusercontent.com/57163905/116627559-baed5e80-a923-11eb-95a2-69a67574a487.png" width = "400px"></a>
 </h1>
 </p>
 
