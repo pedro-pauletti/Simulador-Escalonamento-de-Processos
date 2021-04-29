@@ -1,3 +1,4 @@
+
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/pedro-pauletti/Simulador-Escalonamento-de-Processos">
     <img src="https://img.shields.io/github/downloads/pedro-pauletti/Simulador-Escalonamento-de-Processos/total">
@@ -11,7 +12,7 @@
 </h1>
 </p>
 
-[![Foo](https://user-images.githubusercontent.com/57163905/116627243-1e2ac100-a923-11eb-861f-edd7e3aebb7d.png)](https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing)
+[![Foo](https://user-images.githubusercontent.com/57163905/116627466-96918200-a923-11eb-87ea-6c84def9d15e.png)](https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing)
 
 
 
