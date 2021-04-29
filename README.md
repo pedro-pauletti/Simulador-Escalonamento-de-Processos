@@ -24,6 +24,7 @@ Conheça o projeto:
 =================
 <!--ts-->
    * [Sobre](#Sobre)
+   * [Interface](#interface)
    * [Como utilizar?](#Como-utilizar)
    * [Algoritmos de Escalonamento](#Algoritmos-de-Escalonamento)
       * [FCFS](#FCFS)
@@ -40,6 +41,11 @@ Conheça o projeto:
 ## Sobre 💬
 
 Escalonamento de processos é o ato de realizar o chaveamento dos processos ativos, de acordo com regras bem estabelecidas, de forma que todos os processos tenham chance de utilizar a UCP. O escalonador é a parte do SO encarregada de decidir entre os processos prontos, qual será colocado em execução. A ideia de criar um simulador é para que estudantes e interessados possam compreender e analisar o funcionamento dos algoritmos de escalonamento de processos de forma simples, visual e didática. Todos os algoritmos foram desenvolvidos em Python. A interface foi concebida utilizando a biblioteca gráfica PySimpleGUI.
+
+## Interface 💻
+![interface](https://user-images.githubusercontent.com/57163905/116623742-16681e00-a91d-11eb-9de1-5688a097490b.png)
+
+
 
 ## Como Utilizar? 💡
 
@@ -78,17 +84,50 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
     * Oferecer tempos de respostas razoáveis para os usuários interativos.
     * Evitar starvation.
     
-### FCFS
+## FCFS
+`First come, First Served:` Primeiro que chega será o primeiro a ser executado.
 
-### SJFS
+Demonstração:
 
-### Prioridade
 
-### Loteria
+## SJFS
+`Shortest Job First:` Menor processo ganhará a CPU e atrás do mesmo formar uma fila de processos por ordem crescente de tempo de execução, não-preemptivo.
 
-### Round Robin
+`Demonstração:`
 
-### Múltiplas Filas
+
+## Prioridade
+- Processos possuem diferentes prioridades de execução.
+- Processos de maior prioridade são escalonados preferencialmente.
+- Mediante um quantum, que interrompe o processador em determinados intervalos de tempo, reavaliando prioridades e, possivelmente, escalonando outro processo.
+- Prioridade estática.
+
+`Demonstração:`
+
+## Loteria
+Processo com maior token (prioridade) sorteado ganha a vez na CPU.  
+
+`Demonstração:`
+
+## Round Robin
+- Caso quantum acabe e o processo não terminou: processo é inserido no fim da fila.
+- Caso o processo termina antes de um quantum: a CPU é liberada para a execução de novos processos.
+
+`Demonstração:`
+
+
+## Múltiplas Filas
+- Cada processo é colocado em uma fila, e cada fila tem uma política de escalonamento própria e outra entre filas.
+- Cada fila tem um determinado nível de prioridade.
+- Sem realimentação.
+
+`Demonstração:`
+
+## Garantido
+Garante aos processos sua execução, dando a todos eles a mesma quantidade de tempo de execução utilizando a CPU.
+
+`Demonstração:`
+
 
 ## 🛠 Ferramentas Utilizadas
 
