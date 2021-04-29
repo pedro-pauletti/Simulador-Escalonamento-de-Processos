@@ -12,9 +12,9 @@
 </h1>
 </p>
 
-[![Foo](https://user-images.githubusercontent.com/57163905/116627466-96918200-a923-11eb-87ea-6c84def9d15e.png)](https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing)
+[![Foo](https://user-images.githubusercontent.com/57163905/116627559-baed5e80-a923-11eb-95a2-69a67574a487.png)](https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing)
 
-
+<img src="https://user-images.githubusercontent.com/57163905/116627559-baed5e80-a923-11eb-95a2-69a67574a487.png" href = "https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing" width = "400px">
 
 ### Simulador de Escalonamento de Processos com propósito educacional e didático, desenvolvido para a disciplina de Sistemas Operacionais l
 
