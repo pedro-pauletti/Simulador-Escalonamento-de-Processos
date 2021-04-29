@@ -9,12 +9,11 @@
 <h1 align="center">
     <img title="Simulador Escalonmaento de Processos" src="assets/icone.png"/>
     <h1 align="center">Simulador Escalonamento de Processos</h1>
+    <a href="https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing"><img src="https://user-images.githubusercontent.com/57163905/116627559-baed5e80-a923-11eb-95a2-69a67574a487.png" width = "400px"></a>
+
 </h1>
 </p>
 
-[![Foo](https://user-images.githubusercontent.com/57163905/116627559-baed5e80-a923-11eb-95a2-69a67574a487.png)](https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing)
-
-<img src="https://user-images.githubusercontent.com/57163905/116627559-baed5e80-a923-11eb-95a2-69a67574a487.png" href = "https://drive.google.com/file/d/1aux05brGhv8saMChXao-SsxKQgwoiPd-/view?usp=sharing" width = "400px">
 
 ### Simulador de Escalonamento de Processos com propósito educacional e didático, desenvolvido para a disciplina de Sistemas Operacionais l
 
@@ -45,7 +44,7 @@ Conheça o projeto:
 
 ## Sobre 💬
 
-Escalonamento de processos é o ato de realizar o chaveamento dos processos ativos, de acordo com regras bem estabelecidas, de forma que todos os processos tenham chance de utilizar a UCP. O escalonador é a parte do SO encarregada de decidir entre os processos prontos, qual será colocado em execução. A ideia de criar um simulador é para que estudantes e interessados possam compreender e analisar o funcionamento dos algoritmos de escalonamento de processos de forma simples, visual e didática. Todos os algoritmos foram desenvolvidos em Python. A interface foi concebida utilizando a biblioteca gráfica PySimpleGUI.![Ativo 3](https://user-images.githubusercontent.com/57163905/116627223-15d28600-a923-11eb-921d-aa50fba4628a.png)
+Escalonamento de processos é o ato de realizar o chaveamento dos processos ativos, de acordo com regras bem estabelecidas, de forma que todos os processos tenham chance de utilizar a UCP. O escalonador é a parte do SO encarregada de decidir entre os processos prontos, qual será colocado em execução. A ideia de criar um simulador é para que estudantes e interessados possam compreender e analisar o funcionamento dos algoritmos de escalonamento de processos de forma simples, visual e didática. Todos os algoritmos foram desenvolvidos em Python. A interface foi concebida utilizando a biblioteca gráfica PySimpleGUI.
 
 
 ## Interface 💻
