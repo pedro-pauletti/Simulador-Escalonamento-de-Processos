@@ -105,6 +105,15 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
     * Oferecer tempos de respostas razoáveis para os usuários interativos.
     * Evitar starvation.
     
+* Gráfico de Gantt:
+    O gráfico mostra visualmente a ordem e o tempo de execução de cada processo de acordo com o algoritmo que foi selecuionado
+    
+* Tempo de Espera:  
+    Soma dos períodos em que o processo estava no seu estado pronto.
+    
+* Tempo de Turnaround:
+    Tempo transcorrido desde o momento em que o software entra e o instante em que termina sua execução.
+    
 ## FCFS
 `First come, First Served:` Primeiro que chega será o primeiro a ser executado.
 
