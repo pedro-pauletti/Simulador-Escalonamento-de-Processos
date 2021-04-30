@@ -93,6 +93,16 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
 
 Demonstração:
 
+<p>
+<h1 align="center">
+    <h3>Simulação</h3><br>
+    <img src="https://user-images.githubusercontent.com/57163905/116646024-737bc800-a94d-11eb-9df5-571ffc799e8d.gif" width = "400px"/>
+    <h3>Resultados Obtidos</h3>
+    <img src="https://user-images.githubusercontent.com/57163905/116646126-b50c7300-a94d-11eb-8a28-fd9cbca0dcb1.png" width = "400px"/>
+    <h3>Gráfico de Gantt do escalonamento dos processos</h3>
+    <img src="https://user-images.githubusercontent.com/57163905/116646158-c9507000-a94d-11eb-83d7-884fd475b3a8.png" width = "400px"/><br>
+</h1>
+</p>
 
 ## SJFS
 `Shortest Job First:` Menor processo ganhará a CPU e atrás do mesmo formar uma fila de processos por ordem crescente de tempo de execução, não-preemptivo.
