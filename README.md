@@ -138,13 +138,14 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
 <p>
 <h1 align="center">
     <h4>Simulação</h4><br>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116715261-ec5e3c80-a9ac-11eb-9944-e3c0eb4f6afb.gif" width = "400px"/>
     <h4>Resultados Obtidos</h4>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116715348-013ad000-a9ad-11eb-8e26-527b56252cda.png" width = "400px"/>
     <h4>Gráfico de Gantt do escalonamento dos processos</h4>
-    <img src="" width = "400px"/><br>
+    <img src="https://user-images.githubusercontent.com/57163905/116715397-0c8dfb80-a9ad-11eb-94ef-7e9879672bfc.png" width = "400px"/><br>
 </h1>
 </p>
+
 
 
 ## Prioridade
@@ -158,11 +159,11 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
 <p>
 <h1 align="center">
     <h4>Simulação</h4><br>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116715784-65f62a80-a9ad-11eb-9182-8c28722e0452.gif" width = "400px"/>
     <h4>Resultados Obtidos</h4>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116715834-75757380-a9ad-11eb-833e-59c68af81625.png" width = "400px"/>
     <h4>Gráfico de Gantt do escalonamento dos processos</h4>
-    <img src="" width = "400px"/><br>
+    <img src="https://user-images.githubusercontent.com/57163905/116715884-81f9cc00-a9ad-11eb-9406-48677df25fd5.png" width = "400px"/><br>
 </h1>
 </p>
 
@@ -174,13 +175,15 @@ Processo com maior token (prioridade) sorteado ganha a vez na CPU.
 <p>
 <h1 align="center">
     <h4>Simulação</h4><br>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116716080-b66d8800-a9ad-11eb-8c53-d7a50e3a08a1.gif" width = "400px"/>
     <h4>Resultados Obtidos</h4>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116716136-c71dfe00-a9ad-11eb-8bf2-1d9eb656765a.png" width = "400px"/>
     <h4>Gráfico de Gantt do escalonamento dos processos</h4>
-    <img src="" width = "400px"/><br>
+    <img src="https://user-images.githubusercontent.com/57163905/116716175-d3a25680-a9ad-11eb-9fdd-0354454b8a5a.png" width = "400px"/><br>
 </h1>
 </p>
+
+
 
 ## Round Robin
 - Caso quantum acabe e o processo não terminou: processo é inserido no fim da fila.
@@ -191,13 +194,14 @@ Processo com maior token (prioridade) sorteado ganha a vez na CPU.
 <p>
 <h1 align="center">
     <h4>Simulação</h4><br>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116716386-12381100-a9ae-11eb-8526-969a981fce2e.gif" width = "400px"/>
     <h4>Resultados Obtidos</h4>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116716425-1e23d300-a9ae-11eb-8448-946c0b113ae1.png" width = "400px"/>
     <h4>Gráfico de Gantt do escalonamento dos processos</h4>
-    <img src="" width = "400px"/><br>
+    <img src="https://user-images.githubusercontent.com/57163905/116716468-2b40c200-a9ae-11eb-8e6f-4f8ef091029f.png" width = "400px"/><br>
 </h1>
 </p>
+
 
 ## Múltiplas Filas
 - Cada processo é colocado em uma fila, e cada fila tem uma política de escalonamento própria e outra entre filas.
@@ -209,13 +213,13 @@ Processo com maior token (prioridade) sorteado ganha a vez na CPU.
 <p>
 <h1 align="center">
     <h4>Simulação</h4><br>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116717091-e5382e00-a9ae-11eb-84bd-556ca2231043.gif" width = "400px"/>
     <h4>Resultados Obtidos</h4>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116717144-f6813a80-a9ae-11eb-8381-0d2ca95dcaf0.png" width = "400px"/>
     <h4>Gráfico de Gantt Fila 1 (FCFS)</h4>                             
-    <img src="" width = "400px"/><br>
+    <img src="https://user-images.githubusercontent.com/57163905/116717285-19abea00-a9af-11eb-8cb5-5e8929fcfb85.png" width = "400px"/>
     <h4>Gráfico de Gantt Fila 2 (Round Robin)</h4>
-    <img src="" width = "400px"/><br>
+    <img src="https://user-images.githubusercontent.com/57163905/116717445-43fda780-a9af-11eb-8cb9-52ee03dc68da.png" width = "400px"/><br>
 </h1>
 </p>
 
@@ -227,11 +231,11 @@ Garante aos processos sua execução, dando a todos eles a mesma quantidade de t
 <p>
 <h1 align="center">
     <h4>Simulação</h4><br>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116716740-7bb81f80-a9ae-11eb-9a9e-3bd70cf6a2aa.gif" width = "400px"/>
     <h4>Resultados Obtidos</h4>
-    <img src="" width = "400px"/>
+    <img src="https://user-images.githubusercontent.com/57163905/116716790-8c689580-a9ae-11eb-933c-c05a81d8a2e9.png" width = "400px"/>
     <h4>Gráfico de Gantt do escalonamento dos processos</h4>
-    <img src="" width = "400px"/><br>
+    <img src="https://user-images.githubusercontent.com/57163905/116716836-98ecee00-a9ae-11eb-911f-29a8a30464ea.png" width = "400px"/><br>
 </h1>
 </p>
 
