@@ -70,15 +70,32 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
 </p>
 
 ### ➡ Adicionando processos
+**PREENCHA OS DADOS REQUISITADOS POR CADA ALGORITMO E CLIQUEM EM `ADICIONAR` PARA INSERIR UM NOVO PROCESSO NA FILA**
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/116647255-775d1980-a950-11eb-9dd2-c16bc44de48d.gif" width = "300px"/>
+</h1>
+</p>
 
 ### ➡ Simulando o funcionamento do algoritmo
 **APÓS ADICIONAR OS PROCESSOS, CLIQUE EM `SIMULAR` PARA DAR INÍCIO A UMA SIMULAÇÃO DO ALGORITMO SELECIONADO**
 - 🔴 PROCESSO EM EXECUÇÃO
 - 🟡 PROCESSO PAUSADO / NÃO FINALIZADO
 - 🟢 PROCESSO FINALIZADO
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/116647388-cd31c180-a950-11eb-99ae-67c7ef79c155.gif" width = "250px"/>
+</h1>
+</p>
 
 ### ➡ Visualizando Resultados
-**CLIQUE NA ABA `RESULTADOS` PARA VISUALIZAR OS DADOS GERADOS PELA SIMUAÇÃO**
+- **CLIQUE NA ABA `RESULTADOS` PARA VISUALIZAR OS DADOS GERADOS PELA SIMUAÇÃO**
+- **CLIQUE NA ABA `GRÁFICO` PARA VISUALIZAR O GRÁFICO DE GANTT GERADO PELA SIMUAÇÃO**
+<p>
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/57163905/116646913-aaeb7400-a94f-11eb-90b3-528a8f255cd1.gif" width = "400px"/>
+</h1>
+</p>
 
 ## Algoritmos de Escalonmaento
 * Funções do escalonamento:
@@ -91,15 +108,15 @@ Clique no ❔ para mostrar o popup com a descrição do algoritmo:
 ## FCFS
 `First come, First Served:` Primeiro que chega será o primeiro a ser executado.
 
-Demonstração:
+`Demonstração:`
 
 <p>
 <h1 align="center">
-    <h3>Simulação</h3><br>
+    <h4>Simulação</h4><br>
     <img src="https://user-images.githubusercontent.com/57163905/116646024-737bc800-a94d-11eb-9df5-571ffc799e8d.gif" width = "400px"/>
-    <h3>Resultados Obtidos</h3>
+    <h4>Resultados Obtidos</h4>
     <img src="https://user-images.githubusercontent.com/57163905/116646126-b50c7300-a94d-11eb-8a28-fd9cbca0dcb1.png" width = "400px"/>
-    <h3>Gráfico de Gantt do escalonamento dos processos</h3>
+    <h4>Gráfico de Gantt do escalonamento dos processos</h4>
     <img src="https://user-images.githubusercontent.com/57163905/116646158-c9507000-a94d-11eb-83d7-884fd475b3a8.png" width = "400px"/><br>
 </h1>
 </p>
@@ -108,6 +125,17 @@ Demonstração:
 `Shortest Job First:` Menor processo ganhará a CPU e atrás do mesmo formar uma fila de processos por ordem crescente de tempo de execução, não-preemptivo.
 
 `Demonstração:`
+
+<p>
+<h1 align="center">
+    <h4>Simulação</h4><br>
+    <img src="" width = "400px"/>
+    <h4>Resultados Obtidos</h4>
+    <img src="" width = "400px"/>
+    <h4>Gráfico de Gantt do escalonamento dos processos</h4>
+    <img src="" width = "400px"/><br>
+</h1>
+</p>
 
 
 ## Prioridade
@@ -118,10 +146,32 @@ Demonstração:
 
 `Demonstração:`
 
+<p>
+<h1 align="center">
+    <h4>Simulação</h4><br>
+    <img src="" width = "400px"/>
+    <h4>Resultados Obtidos</h4>
+    <img src="" width = "400px"/>
+    <h4>Gráfico de Gantt do escalonamento dos processos</h4>
+    <img src="" width = "400px"/><br>
+</h1>
+</p>
+
 ## Loteria
 Processo com maior token (prioridade) sorteado ganha a vez na CPU.  
 
 `Demonstração:`
+
+<p>
+<h1 align="center">
+    <h4>Simulação</h4><br>
+    <img src="" width = "400px"/>
+    <h4>Resultados Obtidos</h4>
+    <img src="" width = "400px"/>
+    <h4>Gráfico de Gantt do escalonamento dos processos</h4>
+    <img src="" width = "400px"/><br>
+</h1>
+</p>
 
 ## Round Robin
 - Caso quantum acabe e o processo não terminou: processo é inserido no fim da fila.
@@ -129,6 +179,16 @@ Processo com maior token (prioridade) sorteado ganha a vez na CPU.
 
 `Demonstração:`
 
+<p>
+<h1 align="center">
+    <h4>Simulação</h4><br>
+    <img src="" width = "400px"/>
+    <h4>Resultados Obtidos</h4>
+    <img src="" width = "400px"/>
+    <h4>Gráfico de Gantt do escalonamento dos processos</h4>
+    <img src="" width = "400px"/><br>
+</h1>
+</p>
 
 ## Múltiplas Filas
 - Cada processo é colocado em uma fila, e cada fila tem uma política de escalonamento própria e outra entre filas.
@@ -137,10 +197,34 @@ Processo com maior token (prioridade) sorteado ganha a vez na CPU.
 
 `Demonstração:`
 
+<p>
+<h1 align="center">
+    <h4>Simulação</h4><br>
+    <img src="" width = "400px"/>
+    <h4>Resultados Obtidos</h4>
+    <img src="" width = "400px"/>
+    <h4>Gráfico de Gantt Fila 1 (FCFS)</h4>                             
+    <img src="" width = "400px"/><br>
+    <h4>Gráfico de Gantt Fila 2 (Round Robin)</h4>
+    <img src="" width = "400px"/><br>
+</h1>
+</p>
+
 ## Garantido
 Garante aos processos sua execução, dando a todos eles a mesma quantidade de tempo de execução utilizando a CPU.
 
 `Demonstração:`
+
+<p>
+<h1 align="center">
+    <h4>Simulação</h4><br>
+    <img src="" width = "400px"/>
+    <h4>Resultados Obtidos</h4>
+    <img src="" width = "400px"/>
+    <h4>Gráfico de Gantt do escalonamento dos processos</h4>
+    <img src="" width = "400px"/><br>
+</h1>
+</p>
 
 
 ## 🛠 Ferramentas Utilizadas
