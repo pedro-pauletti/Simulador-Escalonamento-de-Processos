@@ -244,9 +244,19 @@ Garante aos processos sua execução, dando a todos eles a mesma quantidade de t
 
 - 🔗[Python](https://www.python.org/)
 - 🔗[PySimpleGUI](https://pypi.org/project/PySimpleGUI/)
+- 🔗[Matplotlib](https://matplotlib.org/)
 
 ## Referências ✔
 
 - 🔗[GSIGMA - UFSC](https://www.gsigma.ufsc.br/~popov/aulas/so1/cap8so.html)
 - 🔗[Escalonamento de Processos - Alex Coletta](https://alexcoletta.eng.br/artigos/escalonamento-de-processos/#:~:text=Escalonamento%20de%20processos%20%C3%A9%20o,qual%20ser%C3%A1%20colocado%20em%20execu%C3%A7%C3%A3o.)
 - 🔗[Scheduling (computing)](https://en.wikipedia.org/wiki/Scheduling_(computing))
+- 🔗[Escalonamento de processos](https://pt.wikipedia.org/wiki/Escalonamento_de_processos)
+
+## Autor👨🏼‍💻
+
+<p align="center">
+    <a align="center" href="https://pedro-pauletti.github.io/pedropauletti.github.io/"><img src="https://user-images.githubusercontent.com/57163905/116717987-e0c04500-a9af-11eb-835f-81939e7c8bf1.jpeg" width = "150px"></a>
+    <h3 align="center">Pedro Pauletti</h3>
+</p>
+
