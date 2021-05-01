@@ -534,7 +534,7 @@ while True:
         break
 
     if event == 'Sobre':
-        webbrowser.open('https://pt.duolingo.com/')
+        webbrowser.open('https://github.com/pedro-pauletti/Simulador-Escalonamento-de-Processos')
 
     if event == 'Adicionar':
         window.extend_layout(window['-COL1-'], [[sg.Text(f'Processo {numProcesso}:', key= f'-PL{num}-', font=("Helvetica", 11)), LEDIndicator(str(numProcesso))]])
